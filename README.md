@@ -13,3 +13,5 @@ In this Document we will track any change that happen in the Design phase ***wir
 
 5. After that scroll to the bottom of the page and commit the change and type what you did e.g."[Added, Updated, Removed]:xyz" and click commit changes!.
 
+or use git/github cli if you know how
+
